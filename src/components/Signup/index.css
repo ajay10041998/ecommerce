@@ -64,9 +64,15 @@
 .signup-logintext {
     text-decoration: underline;
     color: #1f87d7;
+    background-color: transparent;
+    border:0px solid transparent;
+    margin-left:10px;
 }
 
 .account-exist-para {
     margin-top: 10px;
     text-align: center;
+}
+.message-color{
+    color:#1f87d7;
 }
